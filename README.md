@@ -1,6 +1,6 @@
 # Experimental Prompting w/ Llama 3.2 3B Instruct on HF's Serverless API
 
-This repository contains experimental prompting examples and testing for **Llama-3.2-3B-Instruct** using Hugging Face’s **Serverless API**.-
+This repository contains experimental prompting examples and testing for **Llama-3.2-3B-Instruct** using Hugging Face’s **Serverless API**
 
 ## **Requirements**
 To use this repository, ensure you have the following:
@@ -27,3 +27,7 @@ Start Jupyter Notebook to begin experimenting with prompts:
 ```bash
 jupyter notebook
 ```
+
+---
+## **Reference**
+[Hugging Face](https://huggingface.co/learn/agents-course/en/unit1/dummy-agent-library)
